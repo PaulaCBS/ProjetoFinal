@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "drMamx24vhh5tDtoKF7UyczAI0k4rfO0ilVz8gCH/hZrXUpn5hpcXWNxFdYK4psDumNhtIGBTQGl9LbH2dxZgQ==",
+  "dgSpecHash": "ZjTG1lNDuLlbKUtI2REFyC2WMo38FYlIyMl2Ey22q/5dIL5iAJf9ENZNqvPN8B6L8pBaa0jRvmvo1vNNyo8bBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Paula\\Source\\Repos\\ProjetoFinal\\src\\Services\\InstaGama.Api\\InstaGama.Api.csproj",
+  "projectFilePath": "C:\\Users\\Paula\\source\\repos\\ProjetoFinal\\src\\Services\\InstaGama.Api\\InstaGama.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Paula\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Paula\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -140,12 +140,5 @@
     "C:\\Users\\Paula\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Paula\\.nuget\\packages\\windowsazure.storage\\9.3.3\\windowsazure.storage.9.3.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\Paula\\Source\\Repos\\ProjetoFinal\\src\\Services\\InstaGama.Api\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
